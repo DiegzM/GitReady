@@ -259,8 +259,8 @@ public class InfectionAssignment {
       System.out.println("Enter the number of time steps:");
       timeSteps = isValidNum(scnr.nextInt());;
       
-      System.out.println("Enter the infection rate (must be between 0 and 0.25 inclusive): ");
-      infectionRate = isWithinBounds(scnr.nextDouble(), 0.00, 0.25);
+      System.out.println("Enter the infection rate (must be between 0 and 1 inclusive): ");
+      infectionRate = isWithinBounds(scnr.nextDouble(), 0.00, 1);
       System.out.println("Enter the recovery rate (must be between 0 and 1 inclusive): ");
       recoveryRate = isWithinBounds(scnr.nextDouble(), 0.00, 1.00);
       
