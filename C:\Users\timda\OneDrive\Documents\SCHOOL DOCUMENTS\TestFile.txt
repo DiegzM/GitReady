@@ -1,67 +1,67 @@
 
 Time Step: 0
 S S S 
-S S I 
 S S S 
+I S S 
 Num of Susceptible: 8, Num of Infected: 1, Num of Recovered: 0
 
 Time Step: 1
-S S I 
-S S R 
 S S S 
-Num of Susceptible: 7, Num of Infected: 1, Num of Recovered: 1
+S S S 
+R S S 
+Num of Susceptible: 8, Num of Infected: 0, Num of Recovered: 1
 
 Time Step: 2
-S S R 
-S S R 
 S S S 
-Num of Susceptible: 7, Num of Infected: 0, Num of Recovered: 2
+S S S 
+R S S 
+Num of Susceptible: 8, Num of Infected: 0, Num of Recovered: 1
 
 Time Step: 3
-S S R 
-S S R 
 S S S 
-Num of Susceptible: 7, Num of Infected: 0, Num of Recovered: 2
+S S S 
+R S S 
+Num of Susceptible: 8, Num of Infected: 0, Num of Recovered: 1
 
 Time Step: 4
-S S R 
-S S R 
 S S S 
-Num of Susceptible: 7, Num of Infected: 0, Num of Recovered: 2
+S S S 
+R S S 
+Num of Susceptible: 8, Num of Infected: 0, Num of Recovered: 1
 
 Time Step: 5
-S S R 
-S S R 
 S S S 
-Num of Susceptible: 7, Num of Infected: 0, Num of Recovered: 2
+S S S 
+R S S 
+Num of Susceptible: 8, Num of Infected: 0, Num of Recovered: 1
 
 Time Step: 6
-S S R 
-S S R 
 S S S 
-Num of Susceptible: 7, Num of Infected: 0, Num of Recovered: 2
+S S S 
+R S S 
+Num of Susceptible: 8, Num of Infected: 0, Num of Recovered: 1
 
 Time Step: 7
-S S R 
-S S R 
 S S S 
-Num of Susceptible: 7, Num of Infected: 0, Num of Recovered: 2
+S S S 
+R S S 
+Num of Susceptible: 8, Num of Infected: 0, Num of Recovered: 1
 
 Time Step: 8
-S S R 
-S S R 
 S S S 
-Num of Susceptible: 7, Num of Infected: 0, Num of Recovered: 2
+S S S 
+R S S 
+Num of Susceptible: 8, Num of Infected: 0, Num of Recovered: 1
 
 Time Step: 9
-S S R 
-S S R 
 S S S 
-Num of Susceptible: 7, Num of Infected: 0, Num of Recovered: 2
+S S S 
+R S S 
+Num of Susceptible: 8, Num of Infected: 0, Num of Recovered: 1
 
 Time Step: 10
-S S R 
-S S R 
 S S S 
-Num of Susceptible: 7, Num of Infected: 0, Num of Recovered: 2
+S S S 
+R S S 
+Num of Susceptible: 8, Num of Infected: 0, Num of Recovered: 1
 
