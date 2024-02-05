@@ -13,7 +13,7 @@ public class InfectionAssignment {
 	public static void eraseFile()
 	{
 		try {
-			PrintWriter outputFile = new PrintWriter("C:\\Users\\timda\\OneDrive\\Documents\\SCHOOL DOCUMENTS\\TestFile.txt");
+			PrintWriter outputFile = new PrintWriter("/Users/diego/eclipse-workspace/gitready");
 			outputFile.println("");
 			outputFile.close();
 			
